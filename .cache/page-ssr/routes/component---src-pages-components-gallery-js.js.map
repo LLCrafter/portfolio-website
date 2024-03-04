@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-components-gallery-js.js","mappings":";;;;;;;;;;;;;;;AAAe,SAASA,OAAO,GAAG,CAAC","sources":["webpack://portfolio-site/./src/pages/components/Gallery.js"],"sourcesContent":["export default function Gallery() {}"],"names":["Gallery"],"sourceRoot":""}

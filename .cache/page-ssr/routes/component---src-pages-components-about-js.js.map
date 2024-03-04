@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-components-about-js.js","mappings":";;;;;;;;;;;;;;;AAAe,SAASA,KAAK,GAAG,CAAC","sources":["webpack://portfolio-site/./src/pages/components/About.js"],"sourcesContent":["export default function About() {}"],"names":["About"],"sourceRoot":""}
